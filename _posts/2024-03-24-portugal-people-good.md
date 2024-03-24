@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [포르투갈 노마드] 포르투갈의 사람들 - 희망편
+title: 포르투갈의 사람들 - 희망편
 date:   2024-03-24 17:31
 description: 포르투갈 노마드 생활에서 만났던, 고마운 사람들.
 comments: true
@@ -23,9 +23,9 @@ tags:
 
 그리고 그 곳에서 후뱅을 만났다. 
 
-![madeira_paragliding_ruben](../assets/img/2024-03-24-portugal-people-good/paragliding_gunn.jpeg)
+![madeira_paragliding_ruben]({{site.url}}/assets/img/2024-03-24-portugal-people-good/paragliding_gunn.jpeg)
 
-![Madalena do Mar](../assets/img/2024-03-24-portugal-people-good/madalena_do_mar_before_gliding.jpeg)
+![Madalena do Mar]({{site.url}}/assets/img/2024-03-24-portugal-people-good/madalena_do_mar_before_gliding.jpeg)
 
 이렇게 패러글라이딩을 하고 이제 집에 갈 시간.
 
@@ -45,7 +45,7 @@ tags:
 
 같이 밥을 먹으면서 이야기를 나누었다. 포르투갈식 백반집! 후뱅은 이러한 음식이 마치 어린 시절의 음식을 먹는 것 같다고 했다. 
 
-![Portugal Simple Meal](../assets/img/2024-03-24-portugal-people-good/ruben_dinner.jpeg)
+![Portugal Simple Meal]({{site.url}}/assets/img/2024-03-24-portugal-people-good/ruben_dinner.jpeg)
 
 맛이 참 좋더라! 무알콜 흑맥주도 참 맛있었다. 다른 곳에서도 찾아보려 했지만 다시는 먹지 못했던,,, 정말 맛있고 깔끔한 흑맥주!
 
@@ -70,7 +70,7 @@ tags:
 
 그리고는 쿨하게 갈 길 가신 택시 아저씨. 마트에서 주스를 선물해 드렸더니 좋아하시더라^^
 
-![Madeira Driving](../assets/img/2024-03-24-portugal-people-good/madeira_driving.jpeg)
+![Madeira Driving]({{site.url}}/assets/img/2024-03-24-portugal-people-good/madeira_driving.jpeg)
 
 그렇게 우리는 무사히 이틀동안 마데이라 구석 구석을 여행할 수 있었다.
 
@@ -86,7 +86,7 @@ tags:
 그곳은 '엄청나게 가파른 케이블카'를 타고서 어떤 마을로 내려가는 것이었다. 마을에 우리가 가고자 하는 식당이 있는 것이 분명했다. 
 그래서 우리는 오직 그 식당을 가기 위해 케이블카를 탔다.
 
-![Cable Car](../assets/img/2024-03-24-portugal-people-good/cable_car_height.jpeg)
+![Cable Car]({{site.url}}/assets/img/2024-03-24-portugal-people-good/cable_car_height.jpeg)
 
 이 '미쳐버린' 경사를 가진 케이블카를 타고 내려가니, 정말 눈부시게 아름다운 마을이 있었다. 그 마을은, 차도 한 대 없고, 사람이 사는 것 같지도 않는 것 같은 곳이었다.
 
@@ -94,9 +94,9 @@ tags:
 
 그리고 그 곳에, 우리가 찾던 그 식당이 실제로 있었다. 우리가 가니 친절한 캐나다 커플이 우리를 반겨주었다.
 
-![Calhau das Achadas da Cruz](../assets/img/2024-03-24-portugal-people-good/cable_car_clam.jpeg)
+![Calhau das Achadas da Cruz]({{site.url}}/assets/img/2024-03-24-portugal-people-good/cable_car_clam.jpeg)
 
-![Calhau das Achadas da Cruz fish](../assets/img/2024-03-24-portugal-people-good/cable_car_fish.jpeg)
+![Calhau das Achadas da Cruz fish]({{site.url}}/assets/img/2024-03-24-portugal-people-good/cable_car_fish.jpeg)
 
 그 식당의 놀라운 점.
 
@@ -133,7 +133,7 @@ tags:
 우리 집은 동 루이스 다리 바로 앞이었는데, 히베이라 광장, 즉 포르투의 정 중앙에서부터 마토지뉴스 해변까지 뛰어갔다.
 한 5키로미터 정도로, 뛰면 금방 갈 수 있는 거리다. 그렇다. 포르투는 상당히 작다.
 
-![beach](../assets/img/2024-03-24-portugal-people-good/porto_beach.jpeg)
+![beach]({{site.url}}/assets/img/2024-03-24-portugal-people-good/porto_beach.jpeg)
 
 아무튼 핸드폰 하나만 들고 해변을 뛰어다니다 보니, 배가 고팠다. 포르투갈에는 '컨택트리스' 결제가 꽤나 활성화 되어 있어서, 삼성페이도 잘 작동한다.
 
