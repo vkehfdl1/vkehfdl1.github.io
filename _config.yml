@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jeffrey's Blog - AI, RAG, Nomad # the main title
+title: Jeffrey's Blog  # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: AI, RAG, Nomad
 
 description: >- # used by seo meta and the atom feed
   Jeffrey Kim's dev blog. Talk about digital nomad, AI, RAG (Retrieval Augmented Generation), and open-source. Making AutoRAG as a digital nomad. Worked at beautiful Madeira island, Porto, and Seoul. Will go Tokyo soon.  
@@ -35,11 +35,11 @@ social:
   email: vkehfdl1@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/vkehfdl1 # change to your github homepage
+    - https://twitter.com/autorag_jeffrey
+    - https://github.com/vkehfdl1
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EA%B9%80-882098258/
 
 # Site Verification Settings
 webmaster_verifications:
