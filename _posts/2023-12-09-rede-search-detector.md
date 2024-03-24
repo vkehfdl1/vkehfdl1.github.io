@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Towards Zero and Few-shot Knowledge-seeking Turn Detection in Task-orientated Dialogue Systems
-date:   2024-03-24 14:26
+date:   2023-12-09 14:26
 description: REDE search detector 논문 설명 & 구현
 comments: true
 tags:
