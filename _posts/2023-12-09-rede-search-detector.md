@@ -6,6 +6,7 @@ description: REDE search detector 논문 설명 & 구현
 comments: true
 tags:
 - paper
+- RAG
 ---
 [원본 논문](https://arxiv.org/pdf/2109.08820.pdf)
 
